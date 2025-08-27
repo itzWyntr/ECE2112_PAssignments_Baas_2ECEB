@@ -2,6 +2,9 @@
 
 My Programming Assignments on the course 2112 are compiled in this repository.
 
+## Table of Contents
+Programming Assignment 1: https://github.com/itzWyntr/ECE2112_PAssignments_Baas_2ECEB?tab=readme-ov-file#programming-assignment-1
+
 ## Programming assignments
 
 PA1: https://github.com/itzWyntr/ECE2112_PAssignments_Baas_2ECEB/blob/main/PA1.ipynb
