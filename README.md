@@ -1,4 +1,4 @@
-# Ryan Baas Programming Assignment 1
+# Programming Assignment 1
 
 My Programming Assignments 1 in explained in this repository
 
