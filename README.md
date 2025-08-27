@@ -3,7 +3,7 @@
 My Programming Assignments 1 in explained in this repository
 
 ## Table of Contents
-Programming Assignment 1: https://github.com/itzWyntr/ECE2112_PAssignments_Baas_2ECEB?tab=readme-ov-file#programming-assignment-1
+Alphabet Soup Problem: https://github.com/itzWyntr/ECE2112_PAssignments_Baas_2ECEB/blob/main/README.md#alphabet-soup-problem
 
 ## Programming assignments
 
