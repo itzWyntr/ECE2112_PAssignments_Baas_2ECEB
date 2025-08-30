@@ -2,6 +2,10 @@
 
 My Programming Assignments 1 in explained in this repository
 
+Objectives
+1. To identify the basic codes and functions in Python Programming
+2. To be able to apply the different codes and functions in creating a Python program,
+
 ## Table of Contents
 Alphabet Soup Problem: https://github.com/itzWyntr/ECE2112_PAssignments_Baas_2ECEB/blob/main/README.md#alphabet-soup-problem
 
